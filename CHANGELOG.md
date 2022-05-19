@@ -1,5 +1,10 @@
 # Changelog
 
+## \[0.8.6]
+
+- Add standalone webview ndk port.
+  - [68c9f07e](https://github.com/tauri-apps/tao/commit/68c9f07e8e24690ddf449ebc545ebd90cd29e118) Implement standalone webview ndk ([#385](https://github.com/tauri-apps/tao/pull/385)) on 2022-05-19
+
 ## \[0.8.5]
 
 - The `current_monitor` function now fallbacks to the primary monitor when the window is invisible.
